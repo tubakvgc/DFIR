@@ -18,4 +18,5 @@ Bu işlemi bir imaj içerisinde görebilmek için öncelikle mount edilmesi gere
 Shadow Explorer aracı sistemdeki tüm sürücüleri içeri aktarır ve bununla da  hangisinde shadow copy varsa otomatik olarak algılar ve ayrı ayrı size dizi yapısı olarak gösterir.
 
 ![image](https://github.com/user-attachments/assets/c478ec7b-b42f-42ae-974d-33c02db96f6c)
+
 Burada C dizini içidneki shadow copyleri görüntüleyebiliriz.

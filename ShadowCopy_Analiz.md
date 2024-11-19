@@ -2,18 +2,6 @@
 
 Shadow Copy (Gölge Kopya), Windows işletim sistemi tarafından dosya yedekleme ve sürüm kontrolü için kullanılan bir özelliktir. Adli bilişim analizinde Shadow Copy, silinmiş veya değiştirilmiş dosyaların eski sürümlerini incelemek için kritik bir kaynaktır.
 
-## Shadow Copy Dosyalarının Konumları
-Shadow Copy dosyası aşağıdaki konumda bulunur:
-
-#### Windows XP:
-- Yok
-  
-#### Windows 7:
-- C:\Windows\AppCompat\Programs\RecentFileCache.bcf
-
-#### Windows 10 ve Sonrası:
-- C:\Windows\AppCompat\Programs\Amcache.hve
-
 ## Analiz
 Bir bilgisyaarda sadece 64 tane shadow copy barındırılabilir. Aşağıdaki komutu yazarak bilgisayarda daha önceden bulundurulan shadow copy listesini görebiliriz.
 - vssadmin list shadows 

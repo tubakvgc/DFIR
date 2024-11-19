@@ -14,5 +14,8 @@ Resime göre shadow dosyalara ait pek çok bilgilere ulaşılmaktadır. Peki biz
 ![image](https://github.com/user-attachments/assets/feb58f2d-f392-48c9-9c21-4ddb2bde7489)
 
 Bu dosyalar red only oldukları için içlerinde bir değişiklik vs yapılmamaktadır.
-
 Bu işlemi bir imaj içerisinde görebilmek için öncelikle mount edilmesi gerekir.
+Shadow Explorer aracı sistemdeki tüm sürücüleri içeri aktarır ve bununla da  hangisinde shadow copy varsa otomatik olarak algılar ve ayrı ayrı size dizi yapısı olarak gösterir.
+
+![image](https://github.com/user-attachments/assets/c478ec7b-b42f-42ae-974d-33c02db96f6c)
+Burada C dizini içidneki shadow copyleri görüntüleyebiliriz.

@@ -6,7 +6,7 @@ Artifacts'ler, olay inceleme (incident response) ve adli bilişim (digital foren
 ## Artifact Analizleri
 Aşağıda her bir Artifact için detaylı analiz rehberlerine ulaşabilirsiniz:
 
-- [LNK Analizi](https://github.com/tubakvgc/DFIR/blob/main/Artifacts/LNK_Analizi.md)
+- [LNK Analizi](https://github.com/tubakvgc/DFIR/blob/main/Artifacts/LNK_Analysis.md)
 - [Amcache Analizi](https://github.com/tubakvgc/DFIR/blob/main/Artifacts/Amcache_Analizi.md)
 - [Shimcache Analizi](https://github.com/tubakvgc/DFIR/blob/main/Artifacts/Shimcache_Analizi.md)
 - [JumpList Analizi](https://github.com/tubakvgc/DFIR/blob/main/Artifacts/JumpList_Analizi.md)
